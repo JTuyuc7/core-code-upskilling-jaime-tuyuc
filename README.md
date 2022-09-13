@@ -2,9 +2,7 @@
 Repository for Bootcamp Core Code Upskilling
 
 # Week 1 challenges
-[Ensure question](weekly-challenges\week-1\ensure_question.js) Return the string with the "?" at the end of the string.
-
-* First approach
+Return the string with the "?" at the end of the string.
 
 ```javascript
 function ensureQuestion(s) {
@@ -22,9 +20,7 @@ console.log(ensureQuestion('No?'))
 // no?
 ```
 
-[Ensure question second approach](weekly-challenges\week-1\ensure_question1.js)
-
-* Second approach
+Return the string with the "?" at the end of the string.
 ```javascript
 function ensureQuestion(s) {
     return s.endsWith('?') ? s : s + '?'
@@ -38,7 +34,7 @@ console.log(ensureQuestion('No?'))
 // no?
 ```
 
-[Reverse sentence](weekly-challenges\week-1\reversed_word.js) Return the String with the reverse string. 
+Return the String with the reverse string. 
 
 ```javascript
 function reverseWords(str){
@@ -51,8 +47,7 @@ console.log(reverseWords("The greatest victory is that which requires no battle"
 // battle no requires which that is victory greatest The
 ```
 
-[Smallest integer](weekly-challenges\week-1\smalles_integer.js) Find the Smallest number on an array list
-
+Find the Smallest number on an array list
 ```javascript
 function findSmallestInt(args) {
     return Math.min(...args)
@@ -67,7 +62,7 @@ console.log(findSmallestInt([34, -345, -1, 100]))
 ```
 
 
-[Even or Odd](weekly-challenges\week-1\Odd_even.js) Return if the sum of the numbers returns Orr or Even
+Return if the sum of the numbers returns Orr or Even
 
 ```javascript
 function oddOrEven(array) {
