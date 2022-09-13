@@ -5,7 +5,8 @@ Repository for Bootcamp Core Code Upskilling
 [Ensure question](weekly-challenges\week-1\ensure_question.js) Return the string with the "?" at the end of the string.
 
 * First approach
-<pre><code> 
+
+```javascript
 function ensureQuestion(s) {
     
     const lastElement = s.split('')
@@ -19,12 +20,12 @@ console.log(ensureQuestion('No?'))
 // Output 
 // yes?
 // no?
-</code> </pre>
+```
 
 [Ensure question second approach](weekly-challenges\week-1\ensure_question1.js)
 
 * Second approach
-<pre><code> 
+```javascript
 function ensureQuestion(s) {
     return s.endsWith('?') ? s : s + '?'
 }
@@ -35,11 +36,11 @@ console.log(ensureQuestion('No?'))
 // Output 
 // yes?
 // no?
-</code> </pre>
+```
 
 [Reverse sentence](weekly-challenges\week-1\reversed_word.js) Return the String with the reverse string. 
 
-<pre><code> 
+```javascript
 function reverseWords(str){
     return str.split(" ").reverse().join(" ")
 }
@@ -48,11 +49,11 @@ console.log(reverseWords("The greatest victory is that which requires no battle"
 
 // Output 
 // battle no requires which that is victory greatest The
-</code> </pre>
+```
 
 [Smallest integer](weekly-challenges\week-1\smalles_integer.js) Find the Smallest number on an array list
 
-<pre><code> 
+```javascript
 function findSmallestInt(args) {
     return Math.min(...args)
 }
@@ -63,13 +64,12 @@ console.log(findSmallestInt([34, -345, -1, 100]))
 // Output 
 // 2
 // -345
-</code> </pre>
+```
 
 
 [Even or Odd](weekly-challenges\week-1\Odd_even.js) Return if the sum of the numbers returns Orr or Even
 
-<pre>
-<code>
+```javascript
 function oddOrEven(array) {
     //enter code here
     let temp = 0
@@ -96,5 +96,4 @@ console.log(oddOrEven([0, -1, -5]))
 // even
 // odd
 // even
-</code>
-</pre>
+```
