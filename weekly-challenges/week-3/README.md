@@ -55,6 +55,8 @@ const Componente = (props) => {
 export default Componente;
 
 // Output
+## Image
+![filterReact](https://user-images.githubusercontent.com/50525507/192135666-bf5b3add-582b-48b8-bdd4-4809139da8c2.png)
 
 ```
 
@@ -99,11 +101,22 @@ const FecthUsersComponent = () => {
 }
 
 export default FecthUsersComponent;
+// Output
+## Image
+![usersfetch2](https://user-images.githubusercontent.com/50525507/192135679-b0e65e4c-7881-4e0c-8ec8-ce762564364d.png)
+
+
 ```
 
 * React Route blog
 ```javascript
     // Since this challenge uses more than 1 file and it uses also the react router dome packages, here will be only upload the video test
+    
+    
+## Video test
+https://user-images.githubusercontent.com/50525507/192135684-dcadafa0-b9c7-4af6-8bcc-d7b817182474.mp4
+
+
 
 ```
 
