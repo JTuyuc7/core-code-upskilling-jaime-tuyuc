@@ -16,3 +16,9 @@ Repository for Bootcamp Core Code Upskilling
     - React santa wish list
     - Easter egg list in ReactJs
     - PC upgrade specs using HOC in ReactJs
+
+### week - 3 [Folder](./weekly-challenges/week-3/)
+    - Build Search Filter in React
+    - Fetch Random User Data
+    - React Router Blog
+    - Redux Lecture
