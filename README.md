@@ -22,3 +22,10 @@ Repository for Bootcamp Core Code Upskilling
     - Fetch Random User Data
     - React Router Blog
     - Redux Lecture
+
+
+### week - 4 [Folder](./weekly-challenges/week-4/)
+    - Two to one
+    - leap year
+    - Maximmun length difference
+    - Base64 numeric translator
