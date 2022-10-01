@@ -28,4 +28,4 @@ Repository for Bootcamp Core Code Upskilling
     - Two to one
     - leap year
     - Maximmun length difference
-    - Base64 numeric translator
+    - Base64 numeric translator // For this challenge i could not found much documentation
