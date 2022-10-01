@@ -71,5 +71,5 @@ let base64_to_base10 = (str) => {
 
 // This is the solution from the repository
 
-
+// Still finding more info about base64s
 ```
