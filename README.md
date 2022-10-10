@@ -29,3 +29,9 @@ Repository for Bootcamp Core Code Upskilling
     - leap year
     - Maximmun length difference
     - Base64 numeric translator // For this challenge i could not found much documentation
+
+### week - 5 [Folder](./weekly-challenges/week-5/)
+    - Fun With list
+    - Separating Strings
+    - Highest Scoring Word
+    - Where is My Parent?
